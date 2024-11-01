@@ -1,0 +1,57 @@
+#swoop-wrapper {
+    margin: 3em 0 0 2em;
+    max-width: 850px;
+}
+
+a, a:visited, a:active {
+    color: #0E72EF;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+.one-click-login-logo {
+  width: 250px;
+}
+
+#swoop-footer a, #swoop-footer a:visited, #swoop-footer a:active {
+    color: #000000;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+h2 {
+    margin: 2em 0 0 0;
+}
+p {
+    margin: .5em 0 1em 0;
+    font-size: 14px;
+}
+
+.form-table td p {
+    font-size: 12px;
+}
+
+.form-table th {
+    width: 125px;
+}
+
+.wp-core-ui .button-primary {
+    background: #0E72EF;
+    border-color: #0E72EF;
+}
+.wp-core-ui .button-primary:hover {
+    background: #212529;
+    border-color: #212529;
+}
+
+#swoop-footer { margin: 1.5em 0 0 0;}
+
+#swoop-footer li {
+  display: inline-block;
+  margin: 0 1em 0 0;
+}
